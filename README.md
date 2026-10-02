@@ -1,4 +1,4 @@
-# RouterOS 7 IPS v4.0
+# RouterOS 7 IPS v4
 
 **Defensive Firewall / Lightweight IPS for MikroTik RouterOS 7**
 
