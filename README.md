@@ -4,7 +4,6 @@
 
 ![RouterOS](https://img.shields.io/badge/RouterOS-7.x-blue)
 ![IPv4](https://img.shields.io/badge/IP-v4%20%2B%20v6-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/status-baseline-orange)
 
 > IPv4 + IPv6 · Threat Levels · Wired Event Hook · Profiles · DDoS/SYN separation
